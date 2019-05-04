@@ -4,4 +4,4 @@ Project for 2017 National Undergraduate Electronic Design Contest: autonomous qu
 MCU: STM32F407VG
 Board set: Anotc "Navigator"
 
-Flight control program developed based on demo project from [anotc](www.anotc.com "anotc's homepage")
+Flight control program developed based on demo project from [anotc](https://anotc.taobao.com "anotc's homepage")
